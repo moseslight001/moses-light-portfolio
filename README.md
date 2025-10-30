@@ -195,3 +195,36 @@ From: " + email)}`; return; } }} > <label className="block text-sm text-gray-300
 </div>
 
 ); } moses-light-portfolio
+# 💡 Moses Light — Hacker & Developer Portfolio
+
+Welcome to my official portfolio website.  
+I'm **Moses Clinton**, also known as *Moses Light* — a passionate hacker, developer, and gaming creator.  
+I blend creativity, technology, and cybersecurity to build powerful, clean digital experiences.
+
+---
+
+## 🚀 Live Demo
+🌐 **[View My Site](https://moseslight001.github.io/moses-light-portfolio/)**
+
+---
+
+## 🧠 About Me
+I’m a creator who loves combining hacking knowledge, development skills, and gaming creativity.  
+Every project I build is designed with precision, dark aesthetics, and interactive energy.
+
+---
+
+## 🧩 Built With
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 📧 Contact
+If you’d like to collaborate or reach out:  
+📩 **moseskk29@gmail.com**
+
+---
+
+© 2025 Moses Light. All Rights Reserved.
